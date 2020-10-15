@@ -1,0 +1,27 @@
+.create{
+    border: 1px solid;
+height: 34px;
+width: 66px;
+border-top-left-radius: 18%;
+border-top-right-radius: 18%;
+border-bottom-left-radius: 18%;
+border-bottom-right-radius: 18%;
+margin-left: 10px;
+bottom: 5px;
+position: relative;
+
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    border: 1px solid;
+    border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+bottom: 7px;
+margin-left: 10px;
+position: relative;
+box-sizing: border-box
+}
